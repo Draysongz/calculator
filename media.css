@@ -1,0 +1,62 @@
+@media only screen and (max-width:700px) {
+    body{
+        background-color: cyan;
+    }
+    .container{
+        width: 16em;
+        height: 24em;
+      position: absolute;
+      right: 15%;
+      margin-top: 40%;
+    }
+    .text{
+        width: 17em;
+    }
+    .secondbuttons button{
+        width: 3em;
+        height: 3em;
+    }
+    .firstbuttons button{
+        width: 3em;
+        height: 3em;
+    }
+    .thirdbuttons button{
+        width: 3em;
+        height: 3em;
+    }
+    .lastbuttons button{
+        width: 3em;
+        height: 3em;
+    }
+
+}
+@media only screen and (min-width:800px) {
+    body{
+        background-color: cyan;
+    }
+    .container{
+        width: 26em;
+        height: 32em;
+      position: absolute;
+      right: 30%;
+    }
+    .text{
+        width: 30em;
+    }
+    .secondbuttons button{
+        width: 5em;
+        height: 5em;
+    }
+    .firstbuttons button{
+        width: 5em;
+        height: 5em;
+    }
+    .thirdbuttons button{
+        width: 5em;
+        height: 5em;
+    }
+    .lastbuttons button{
+        width: 5em;
+        height: 5em;
+    }
+}
